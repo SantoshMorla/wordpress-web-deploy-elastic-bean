@@ -1,1 +1,1 @@
-# wordpress-web-deploy-elastic-bean
+# wordpress-web-deploy-elastic
